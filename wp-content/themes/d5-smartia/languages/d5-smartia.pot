@@ -1,0 +1,319 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Innovation Lite\n"
+"POT-Creation-Date: 2019-02-14 12:47+0600\n"
+"PO-Revision-Date: 2015-10-29 02:02+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: 404.php:15 archive.php:70 index.php:35 search.php:45
+msgid "Browse the Home Page"
+msgstr ""
+
+#: 404.php:15 archive.php:70 index.php:35 search.php:45
+msgid "Or Return to the Home Page"
+msgstr ""
+
+#: archive.php:14
+msgid "now browsing by category"
+msgstr ""
+
+#: archive.php:20
+msgid "now browsing by tag"
+msgstr ""
+
+#: archive.php:25
+msgid "now browsing by day"
+msgstr ""
+
+#: archive.php:28
+msgid "now browsing by month"
+msgstr ""
+
+#: archive.php:31
+msgid "now browsing by year"
+msgstr ""
+
+#: archive.php:34
+msgid "now browsing by author"
+msgstr ""
+
+#: archive.php:37
+msgid "now browsing the general archives"
+msgstr ""
+
+#: archive.php:43 index.php:13 single.php:16
+msgid "Posted by"
+msgstr ""
+
+#: archive.php:43 index.php:13 single.php:16
+msgid "Posted on"
+msgstr ""
+
+#: archive.php:51 index.php:18 search.php:32 single.php:21
+msgid "Posted in"
+msgstr ""
+
+#: archive.php:51 index.php:18 search.php:32 single.php:21
+msgid "Edit"
+msgstr ""
+
+#: archive.php:51 comments.php:14 index.php:18 search.php:32 single.php:21
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:51 comments.php:14 index.php:18 search.php:32 single.php:21
+msgid "One Comment"
+msgstr ""
+
+#: archive.php:51 comments.php:14 index.php:18 search.php:32 single.php:21
+msgid "Comments"
+msgstr ""
+
+#: archive.php:51 index.php:18 search.php:32 single.php:21
+msgid "Tags"
+msgstr ""
+
+#: archive.php:60 index.php:24
+msgid "Previous Entries"
+msgstr ""
+
+#: archive.php:61 index.php:25
+msgid "Next Entries"
+msgstr ""
+
+#: archive.php:66 index.php:31 search.php:41
+msgid "Sorry, we could not find anything that matched your search."
+msgstr ""
+
+#: archive.php:68 index.php:33 search.php:43
+msgid "You Can Try Another Search..."
+msgstr ""
+
+#: comments.php:14
+msgid " to"
+msgstr ""
+
+#: comments.php:28
+msgid "Comments are Closed"
+msgstr ""
+
+#: fullwidth.php:17 index.php:17 page.php:20 single.php:20
+msgid "Pages"
+msgstr ""
+
+#: functions.php:9 header.php:56
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:9
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:141
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:150
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: functions.php:159
+msgid "Footer Area One"
+msgstr ""
+
+#: functions.php:161 functions.php:171 functions.php:181 functions.php:191
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+#: functions.php:169
+msgid "Footer Area Two"
+msgstr ""
+
+#: functions.php:179
+msgid "Footer Area Three"
+msgstr ""
+
+#: functions.php:189
+msgid "Footer Area Four"
+msgstr ""
+
+#: inc/customize.php:9
+msgid "SMARTIA OPTIONS"
+msgstr ""
+
+#: inc/customize.php:10
+msgid "We appreciate an"
+msgstr ""
+
+#: inc/customize.php:10
+msgid "Honest Review"
+msgstr ""
+
+#: inc/customize.php:10
+msgid "of this Theme if you Love our Work"
+msgstr ""
+
+#: inc/customize.php:12
+msgid ""
+"Need More Features and Options including Exciting Slide and 100+ Advanced "
+"Features? Try "
+msgstr ""
+
+#: inc/customize.php:13
+msgid "Smartia Extend"
+msgstr ""
+
+#: inc/customize.php:16
+msgid "You can Visit the Smartia Extend "
+msgstr ""
+
+#: inc/customize.php:16
+msgid "Demo Here"
+msgstr ""
+
+#: inc/customize.php:33
+msgid "Left Ad Image"
+msgstr ""
+
+#: inc/customize.php:36 inc/customize.php:53
+msgid "180px X 150px image is recommended"
+msgstr ""
+
+#: inc/customize.php:50
+msgid "Right Ad Image"
+msgstr ""
+
+#: inc/customize.php:70
+msgid "Sliding Image"
+msgstr ""
+
+#: inc/customize.php:73
+msgid "1300px X 300px image is recommended"
+msgstr ""
+
+#: inc/customize.php:78
+msgid "Slide Image "
+msgstr ""
+
+#: inc/customize.php:78
+msgid " Title | Welcome to D5 Smartia Theme, Visit D5 Creation for Details"
+msgstr ""
+
+#: inc/customize.php:86
+msgid "Image Title"
+msgstr ""
+
+#: inc/customize.php:94
+msgid ""
+"You can use D5 Smartia for Black and White looking Smart Blogging, Personal "
+"or Corporate Websites.  This is a Sample Description and you can change "
+"these from Samrtia Options"
+msgstr ""
+
+#: inc/customize.php:102
+msgid "Image Description"
+msgstr ""
+
+#: inc/customize.php:121
+msgid "Linked In Link"
+msgstr ""
+
+#: inc/customize.php:136
+msgid "YouTube Link"
+msgstr ""
+
+#: inc/customize.php:152
+msgid "Blog/News Link"
+msgstr ""
+
+#: page.php:28
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: search.php:12
+msgid "Search Results"
+msgstr ""
+
+#: search.php:19
+msgid "Search Term"
+msgstr ""
+
+#: search.php:20
+msgid "Number of Results"
+msgstr ""
+
+#: search.php:24
+msgid "Entry Date"
+msgstr ""
+
+#: searchform.php:11
+msgid "Your Search Text Here"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Meta"
+msgstr ""
+
+#: single.php:27
+msgid "Previous Image"
+msgstr ""
+
+#: single.php:28
+msgid "Next Image"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "D5 Smartia"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://d5creation.com/theme/smartia/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"D5 Smartia theme for WordPress is sophisticated, lightweight, adaptable and "
+"Responsive. You can use D5 Smartia for Smart Blogging, Personal or "
+"Corporate Websites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "D5 Creation"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://d5creation.com/"
+msgstr ""
